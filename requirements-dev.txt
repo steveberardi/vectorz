@@ -1,0 +1,5 @@
+pytest==8.4.2
+pytest-cov==7.0.0
+ruff==0.13.1
+flit==3.12.0
+

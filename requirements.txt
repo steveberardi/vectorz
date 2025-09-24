@@ -1,0 +1,4 @@
+shapely==2.0.7
+rtree==1.4.1
+pyqtree==1.0.0
+starplot
